@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 #!/bin/bash
 ls -al && cd .. && ls -al
+=======
+#!/bin/bash
+ls -al
+cd ..
+ls -al
+>>>>>>> 8dd4c68b71c040f6079e25d7130e6af38a9d0233
