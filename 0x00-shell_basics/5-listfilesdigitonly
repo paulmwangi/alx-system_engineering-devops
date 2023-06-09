@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 ls -aln
+=======
+#!/bin/bash
+ls -aln "$PWD"
+>>>>>>> fecd93a72018d19563ebdd2fdb92b3d08a22c698
