@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# List files in the current directory
+echo "Listing files in the current directory:"
+ls -al
+
+# Move to the parent directory and list files
+echo "Listing files in the parent directory:"
+cd ..
+ls -al
+
+# Move to the /boot directory and list files
+echo "Listing files in the /boot directory:"
+cd /boot
+ls -al
