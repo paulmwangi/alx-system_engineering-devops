@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 mkdir -p /tmp/u && mv [A-Z]* /tmp/u/
 =======
 #!/bin/bash
 mv [[:upper:]]* ./tmp/u/ 
 >>>>>>> 97f786eb906f000b3829b501d9ed2a4786c52772
+=======
+#!/bin/bash
+mv [[:upper:]]* ./tmp/u/ 
+>>>>>>> d9eec8300316d88cc9381f03ca60e9e30444124d
