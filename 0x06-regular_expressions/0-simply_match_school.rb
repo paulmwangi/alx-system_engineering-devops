@@ -1,2 +1,6 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/School/).join
+if ARGV[0]
+  puts RGV[0].scan(/School/).join
+else
+  puts "No argumnet provided"
+end
