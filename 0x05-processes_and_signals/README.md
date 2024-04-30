@@ -23,8 +23,6 @@ This project focuses on the management of processes and signals in Linux. It aim
 ## More Info
 For a comprehensive understanding of all signals, refer to the provided article link in the project description.
 
-## Copyright and Plagiarism
-You must come up with your own solutions to meet the learning objectives. Plagiarism is strictly forbidden and will result in removal from the program[^2^][2].
 
 ---
 
