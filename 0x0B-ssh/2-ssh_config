@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Client configuration file
 Host default
-  HostName 3.90.65.20
+  HostName 54.236.41.245
   User ubuntu
   Port 22
   PasswordAuthentication no
